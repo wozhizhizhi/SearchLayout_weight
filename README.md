@@ -1,7 +1,17 @@
 # SearchLayout_weight
 一款历史搜索记录功能自定义搜索框(可自定义)
-- 使用简单
+- 使用简单高度自定义
 ## 步骤1：导入控件库
+- root build.gradle写入
+```
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
 - Gradle引入依赖 build.Gradle
 ```
 dependencies {
