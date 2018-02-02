@@ -15,7 +15,7 @@ allprojects {
 - Gradle引入依赖 build.Gradle
 ```
 dependencies {
-	        compile 'com.github.wozhizhizhi:SearchLayout_weight:-SNAPSHOT'
+	        compile 'com.github.wozhizhizhi:SearchLayout_weight:v1.0'
 	}
 ```
 ## 步骤2：设置搜索框
